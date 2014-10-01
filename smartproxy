@@ -1,0 +1,7 @@
+proxy http://fs.wanzhuan.link:3306
+
+
+outside_china_use_proxy on
+
+direct_domain baidu.com qq.com tabao.com sina.com 163.com sohu.com
+direct_domain haodou.com weibo.com youku.com iqiyi.com jd.com
